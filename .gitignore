@@ -1,0 +1,6 @@
+
+.gradle/1.0/taskArtifacts/cache.properties
+
+build/*
+
+.gradle/*

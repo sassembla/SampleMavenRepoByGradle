@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.kissaki.sample</groupId>
+  <artifactId>Samplemavenrepobygradle</artifactId>
+  <version>0.0.1</version>
+  <versioning>
+    <versions>
+      <version>0.0.1</version>
+    </versions>
+    <lastUpdated>20120726145544</lastUpdated>
+  </versioning>
+</metadata>
