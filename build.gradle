@@ -26,7 +26,7 @@ version = '0.0.1'
 uploadArchives {
 	repositories {
 		mavenDeployer {
-			repository(url: 'file:/Users/sassembla/Desktop/SampleMavenRepoByGradle')
+			repository(url: "file:${projectDir}")
 		}
 	}
 }
